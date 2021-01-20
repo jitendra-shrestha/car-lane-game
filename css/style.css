@@ -1,0 +1,19 @@
+body{
+    background-color: #32a852;
+}
+
+#container{
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+
+.part{
+    margin: 0 auto;
+    background-size: contain;
+    background-repeat: repeat-y;
+    border: 0px solid black;
+    position: relative;
+    box-shadow: 0 0 10px 2px;
+}
+
